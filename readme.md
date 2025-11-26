@@ -10,55 +10,6 @@
 
 <hr style="border:1px solid gray">
 
-**A little bit more about me :**
-
-```Cpp
-#include <iostream>
-#include <string>
-#include <vector>
-using namespace std;
-
-string print_array(vector<string> v) {
-    for (string val : v) {
-        cout << val << " ";
-    }
-    cout << endl;
-}
-
-class AlexisG {
-public:
-  int age;
-  vector<string> languages;
-  vector<string> tools;
-  vector<string> OS;
-  vector<string> Activities;
-
-  int GetAge(){return age;};
-  vector<string> GetLanguages(){return languages;};
-  vector<string> GetTools(){return tools;};
-  vector<string> GetOS(){return OS;};
-  vector<string> GetActivities(){return Activities;};
-};
-
-
-int main() {
-  AlexisG Alexis;
-  Alexis.age = 22;
-  Alexis.tools = {"Autocad","Excel","Word","Powerpoint"};
-  Alexis.languages = {"Python","C++","LaTeX","SQL","HTML","CSS","Javascript","Typescript","Matlab","VBA"};
-  Alexis.OS = {"Windows","Ubuntu","Debian","Archlinux"};
-  Alexis.Activities = {"Running","Travel","Hike","Biking"};
-
-  cout << Alexis.GetAge() <<endl;
-  cout << print_array(Alexis.GetTools())<< endl;
-  cout << print_array(Alexis.GetLanguages()) << endl;
-  cout << print_array(Alexis.GetOS()) <<endl;
-  cout << print_array(Alexis.GetActivities()) <<endl;
-
-  return 0;
-}
-```
-
 ## Resume 
 
 ### 🛠️ Languages and Tools :
@@ -81,12 +32,6 @@ int main() {
 ### 💻 OS :
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" title="Archlinux" alt="Archlinux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" title="Debian" alt="Debian" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows" alt="Windows" width="40" height="40"/>&nbsp;
 </div>
-
-### :fire: Statistics :
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AleG57&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)

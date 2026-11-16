@@ -18,6 +18,13 @@ First of all, my work was related to continuous improvement of ICT systems of th
 
 I am currently enrolled in a PhD in deep learning at LORIA, CNRS, specialized in localized anomaly detection and uncertainty estimation in computer vision. On the same time, I am lab teacher in machine learning, structure and algorithms courses at CentraleSupélec.
 
+### Main projects
+
+* LaTeX templates
+* Duals-sPLS implementation in Python
+* Data science tutorials for students and
+* Bash, Git and essential tools for CS students
+
 ### Technical skills :
 
 <div>
@@ -41,10 +48,3 @@ I am currently enrolled in a PhD in deep learning at LORIA, CNRS, specialized in
   <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" title="Debian" alt="Debian" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows" alt="Windows" width="40" height="40"/>&nbsp;
 </div>
-
-### Main projects
-
-* LaTeX templates
-* Duals-sPLS implementation in Python
-* Data science tutorials for students and
-* Bash, Git and essential tools for CS students

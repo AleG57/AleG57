@@ -1,6 +1,6 @@
 # Alexis Gracias
 
-**PhD student @ LORIA, INRIA, CNRS**
+**PhD student @ LORIA, CNRS**
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/alexisgracias/">
